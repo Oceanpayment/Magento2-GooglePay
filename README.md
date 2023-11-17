@@ -8,4 +8,5 @@ Installation
 In order to deactivate the module bin/magento module:disable --clear-static-content Oceanpayment_GooglePay
 In order to update static files: bin/magento setup:static-content:deploy
 
+
 Important: make sure that php path is correct in bin/magento file
